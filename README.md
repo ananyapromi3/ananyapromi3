@@ -1,7 +1,7 @@
 ## Hi! 👋
 
 
-This is **Ananya Shahrin Promi**, a **Final Year (Level-4, Term 1) CS Undergraduate Student** at **Bangladesh University of Engineering and Technology**.
+This is **Ananya Shahrin Promi**, a **Final Year (Level-4, Term 2) CS Undergraduate Student** at **Bangladesh University of Engineering and Technology**.
 
 ## Profile Overview
 
