@@ -1,7 +1,6 @@
 ## Hi! 👋
 
-
-This is **Ananya Shahrin Promi**, a **Final Year (Level-4, Term 2) CS Undergraduate Student** at **Bangladesh University of Engineering and Technology**.
+This is **Ananya Shahrin Promi**, an **Erasmus Mundus Joint Master (EMJM) Scholar in the IMAGING** program, currently studying at **Politecnico di Milano**. Previously, I completed my Bachelor of Science in Computer Science and Engineering at the **Bangladesh University of Engineering and Technology (BUET)**.
 
 ## Profile Overview
 
